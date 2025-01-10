@@ -1,3 +1,5 @@
+package U6T1;
+
 public class Dog {
     private String name;
     private int age;

@@ -1,3 +1,5 @@
+package U6T1;
+
 public class ArrayManipulator {
   
     // instance variables
